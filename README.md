@@ -2,7 +2,7 @@
 This is a Remote access tool [RAT]. Which can be used to command and control [c2] Target computers, Code named [Ratatoolie]
 ## Resources:
 
-- [Duckey Logger] (https://github.com/cosmodiumCS/Duckey-Logger)
+- [key Logger] 
 
 ## Components:
 
